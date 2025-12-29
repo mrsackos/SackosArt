@@ -1,0 +1,25 @@
+# Virtual Environments
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Compiled Files/Folders
+__pychache__/
+*.pyc
+
+# IDE files/folders
+.vscode/
+.idea/
+.ipynb_checkpoints
+
+# Testing Artifacts and Coverage Reports
+.coverage
+htmlcov/
+.pytest_cache
+
+# Distribution and Packaging Files
+dist/
+build/
+*.egg
+*.whl
